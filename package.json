@@ -1,0 +1,13 @@
+{
+  "name": "Manshar",
+  "version": "0.0.0",
+  "private": true,
+  "license": "Simplified BSD",
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react": "^0.13.1",
+    "react-native": "^0.3.4"
+  }
+}
